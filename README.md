@@ -14,7 +14,7 @@ http interface for sending messages.
 ## Installation
 
 ```bash
-composer require cspoo/swiftmailer-mailgun-bundle
+composer require dugandzic/swiftmailer-mailgun-bundle
 ```
 
 Also add to your AppKernel:
